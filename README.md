@@ -12,3 +12,10 @@
 1. git init
 2. git add . (or file names)
 3. git commit -m "Commitment message"
+
+#### Sync with GitHub
+
+1. git config --global user.name "your_name"
+2. git config --global user.email "email@example.com"
+3. git remote add origin https://github.com/username/your_repository_name.git
+4. git push -u origin master
