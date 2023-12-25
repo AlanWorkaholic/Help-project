@@ -1,4 +1,4 @@
-## GIT
+### GIT
 
 
 1. Study what is GIT and why do you need it.
@@ -6,4 +6,9 @@
 3. Create GitHub account.
 4. Synchronize your accounts.
 
-**Enjoy**
+#### Steps to make folder GIT
+
+0. Make folder and files inside
+1. git init
+2. git add . (or file names)
+3. git commit -m "Commitment message"
