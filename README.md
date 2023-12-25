@@ -19,3 +19,9 @@
 2. git config --global user.email "email@example.com"
 3. git remote add origin https://github.com/username/your_repository_name.git
 4. git push -u origin master
+
+#### File statuses
+
+1. untracked
+2. staged - after "git add"
+3. modified - you need to make "git add" once more time
